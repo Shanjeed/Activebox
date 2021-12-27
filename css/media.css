@@ -30,6 +30,12 @@
         padding-top: 20px;
         padding-bottom: 90px;
     }
+    .ft-text p {
+        padding-bottom: 50px;
+    }
+    .pdr {
+        padding: 0!important;
+    }
 }
 /*Small device*/
 @media(min-width:576px) and (max-width:767.98px){
