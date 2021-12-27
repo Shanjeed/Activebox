@@ -63,6 +63,9 @@
         padding-top: 20px;
         padding-bottom: 90px;
     }
+    .pdr {
+        padding: 0!important;
+    }
 }
 /*Medium device*/
 @media(min-width:768px) and (max-width:991.98px){
