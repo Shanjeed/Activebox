@@ -114,6 +114,12 @@
         padding-top: 30px;
         padding-bottom: 10px;
     }
+    #footer h3 {
+        margin-top: 20px;
+    }
+    .footer-icon a img {
+        margin-bottom: 20px;
+    }
 }
 /*Medium device*/
 @media(min-width:768px) and (max-width:991.98px){
