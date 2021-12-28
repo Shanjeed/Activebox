@@ -40,6 +40,13 @@
     .team-icon a img {
         margin-bottom: 25px;
     }
+    .t-text p {
+        font-size: 25px;
+        padding-top: 25px;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
+    }
 }
 /*Small device*/
 @media(min-width:576px) and (max-width:767.98px){
@@ -73,6 +80,13 @@
     }
     .team-icon a img {
         margin-bottom: 25px;
+    }
+    .t-text p {
+        font-size: 25px;
+        padding-top: 25px;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
     }
 }
 /*Medium device*/
