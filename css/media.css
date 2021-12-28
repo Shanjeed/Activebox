@@ -52,6 +52,17 @@
         padding-left: 0;
         text-align: center;
     }
+    .fe-text p {
+        padding: 0 10px;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    #footer h3 {
+        margin-top: 20px;
+    }
+    .footer-icon a img {
+        margin-bottom: 20px;
+    }
 }
 /*Small device*/
 @media(min-width:576px) and (max-width:767.98px){
@@ -97,6 +108,11 @@
         font-size: 12px;
         padding-left: 0;
         text-align: center;
+    }
+    .fe-text p {
+        padding: 0 10px;
+        padding-top: 30px;
+        padding-bottom: 10px;
     }
 }
 /*Medium device*/
