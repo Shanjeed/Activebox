@@ -154,4 +154,10 @@
 /*Large device*/
 @media(min-width:992px) and (max-width:1199.98px){}
 /*Extra large device*/
-@media(min-width:1200px) and (max-width:1420.98px){}
+@media(min-width:1200px) and (max-width:1600.98px){
+    .fe-text p {
+        padding: 0;
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+}
