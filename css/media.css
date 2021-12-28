@@ -37,6 +37,9 @@
     .pdr {
         padding: 0!important;
     }
+    .team-icon a img {
+        margin-bottom: 25px;
+    }
 }
 /*Small device*/
 @media(min-width:576px) and (max-width:767.98px){
@@ -67,6 +70,9 @@
     }
     .pdr {
         padding: 0!important;
+    }
+    .team-icon a img {
+        margin-bottom: 25px;
     }
 }
 /*Medium device*/
